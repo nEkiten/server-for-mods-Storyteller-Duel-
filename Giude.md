@@ -1,4 +1,4 @@
-# server-for-mods-Storyteller-Duel-
+# Guide server
 server for mods "Storyteller Duel"
 Как запустить:
 []Установи Python 3.8+
