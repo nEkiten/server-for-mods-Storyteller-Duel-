@@ -1,6 +1,3 @@
-# Guide server
-Server for mods "Storyteller Duel"
-
 ## Как запустить:
 - Установи Python 3.8+
 - Скачай репозиторий и открой папку с сервером
@@ -10,9 +7,6 @@ Server for mods "Storyteller Duel"
 ## В игре
 Укажи IP-адрес сервера в настройках мода + порт 5000.  
 Вам нужно будет заменить "localhost" у "http://localhost:5000" на ваш IP в локальном сервере.
-
-# Guide server
-Server for mods "Storyteller Duel"
 
 ## How to run:
 - Install Python 3.8+
